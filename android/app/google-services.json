@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "908214306318",
+    "project_id": "scandish-4f4dd",
+    "storage_bucket": "scandish-4f4dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908214306318:android:5ea1ae9e69130abbfa9e5f",
+        "android_client_info": {
+          "package_name": "com.timekeeperscan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908214306318-okn3j4rjpngrnlvu12gaigocm4u2p9kp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgmm2qEoWG4PK6AhK64T7Tzw9UAE8YR4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908214306318-okn3j4rjpngrnlvu12gaigocm4u2p9kp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "908214306318-84k6ak0fns39lbjjol7tb7oro3i06ten.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.timekeeperscan.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
